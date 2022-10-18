@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <BaseOutputPath>C:\c#\Chat3</BaseOutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="obj\**" />
+    <EmbeddedResource Remove="obj\**" />
+    <None Remove="obj\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="Extensions\SocketExtensions.cs" />
+    <Compile Include="Interfaces\IMainView.cs" />
+    <Compile Include="Models\ChatInfo.cs" />
+    <Compile Include="Utils\JsonUtils.cs" />
+    <Compile Include="Utils\SocketUtils.cs" />
+  </ItemGroup>
+
+</Project>

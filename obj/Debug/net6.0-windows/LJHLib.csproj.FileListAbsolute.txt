@@ -1,0 +1,12 @@
+C:\c#\LJHLib\bin\Debug\net6.0-windows\LJHLib.deps.json
+C:\c#\LJHLib\bin\Debug\net6.0-windows\LJHLib.dll
+C:\c#\LJHLib\bin\Debug\net6.0-windows\LJHLib.pdb
+C:\c#\LJHLib\obj\Debug\net6.0-windows\LJHLib.csproj.AssemblyReference.cache
+C:\c#\LJHLib\obj\Debug\net6.0-windows\LJHLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\LJHLib\obj\Debug\net6.0-windows\LJHLib.AssemblyInfoInputs.cache
+C:\c#\LJHLib\obj\Debug\net6.0-windows\LJHLib.AssemblyInfo.cs
+C:\c#\LJHLib\obj\Debug\net6.0-windows\LJHLib.csproj.CoreCompileInputs.cache
+C:\c#\LJHLib\obj\Debug\net6.0-windows\LJHLib.dll
+C:\c#\LJHLib\obj\Debug\net6.0-windows\refint\LJHLib.dll
+C:\c#\LJHLib\obj\Debug\net6.0-windows\LJHLib.pdb
+C:\c#\LJHLib\obj\Debug\net6.0-windows\ref\LJHLib.dll
